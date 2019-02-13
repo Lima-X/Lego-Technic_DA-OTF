@@ -27,6 +27,7 @@ When building it your self you will also need 3x `Pin Connector Round 1L (Tube Ã
 
 ## Assembly and Demonstration:
 [![Could NOT load Image](https://github.com/Lima-X-Coding/Lego-Technic_DA-OTF/blob/master/Step68.png)](https://www.youtube.com/watch?v=BVaSsao7luw)
+(yeah, the Image is a link to a YouTube Video)
 
 ## Known Problems:
 * When sliding the Switch don't press too strong down on it, it will cause friction in the Internals and the Blade could get stuck while free floating.
