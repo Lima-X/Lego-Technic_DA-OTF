@@ -34,4 +34,6 @@ When building it your self you will also need 3x `Pin Connector Round 1L (Tube Ã
 * When sliding the Switch make sure to push or pull it straight, sliding it diagonally will cause friction in the Internals and the Blade could get stuck while free floating.
 > Possible Fix: Just reset it manually by pulling out or pushing in the Blade all the way
 * Uses some rare Lego-Technic pieces aswell as an spring and rubberbands with specific measurements, which aren't even Lego pieces.
-> Possible Solution: NO
+> Possible Solution: NO 
+* Difficult to assemble/disassemble because it's so compact and powerful and therefore needs so many Connector-Pins to hold it together.
+> Possible Solution: Use a less powerful spring aswell as weaker rubberbands and use less Connector-Pins, but I can't guarantee you that it will either still work or if it will "disassemble itself" :D
