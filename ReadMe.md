@@ -2,8 +2,6 @@
 A proof of concept DA-OTF Knife made out of Lego-Technic Bricks.
 Powered by an ~12N Spring and two Rubberbands.
 
-Assembly and Demonstration: [![IMAGE ALT TEXT HERE](https://github.com/Lima-X-Coding/Lego-Technic_DA-OTF/blob/master/Step68.png)](https://www.youtube.com/watch?v=BVaSsao7luw)
-
 ## Content:
 * .lxf File for Lego-Digital-Designer [LDD]
 * .7z File containing Building-Instructions [HTML-Page]
@@ -25,6 +23,9 @@ Information on what spring I used will follow sometime soon (meaning probably no
 > stretched Length when build in: 85mm
 
 When building it your self you will also need 3x `Pin Connector Round 1L (Tube Ø 7,84mm 1M)` [[Item: 18654](https://www.bricklink.com/v2/catalog/catalogitem.page?P=18654#T=S&O={%22iconly%22:0})] (this part isn't available yet in LDD)
+
+## Assembly and Demonstration:
+[![Could NOT load Image](https://github.com/Lima-X-Coding/Lego-Technic_DA-OTF/blob/master/Step68.png)](https://www.youtube.com/watch?v=BVaSsao7luw)
 
 ## Known "Bugs":
 * When sliding the Switch don't press too strong down on it, it will cause friction in the Internals and the Blade could get stuck while free floating.
