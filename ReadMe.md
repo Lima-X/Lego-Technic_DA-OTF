@@ -2,6 +2,8 @@
 A proof of concept DA-OTF Knife made out of Lego-Technic Bricks.
 Powered by an ~12N Spring and two Rubberbands.
 
+Assembly and Demonstration: [![IMAGE ALT TEXT HERE](https://github.com/Lima-X-Coding/Lego-Technic_DA-OTF/blob/master/Step68.png)](https://www.youtube.com/watch?v=BVaSsao7luw)
+
 ## Content:
 * .lxf File for Lego-Digital-Designer [LDD]
 * .7z File containing Building-Instructions [HTML-Page]
