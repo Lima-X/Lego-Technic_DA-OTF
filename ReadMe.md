@@ -13,6 +13,7 @@ And I think it turned out pretty well, though it still has some problems caused 
 
 ### Additional Note:
 I normally wouldn't publish something like that, but it turned out so well that I decided to make it publicly available with some half decent Documentation.
+
 Information on what spring I used will follow sometime soon (meaning probably not. If thats the case follow the Information about a suitable spring)
 > Strength: ~ 10N - 12N
 
